@@ -11,7 +11,7 @@
 <li>Quem vence o confronto ganha um turbo (+ 1ponto) aleatoriamente</li>
 </ul>
 
-[Projeto base](https://github.com/rpeleias-v1/personapi_digital_innovation_one/tree/master)
+[Projeto base](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart)
 
 <h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
 
